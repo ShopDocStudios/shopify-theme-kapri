@@ -8,6 +8,25 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "main_list_collections_ceWFM3": {
+      "type": "main-list-collections",
+      "name": "All Collections",
+      "settings": {
+        "heading": "OUR COLLECTIONS",
+        "manual_collections": [],
+        "header_font": "md:text-2xl",
+        "mobile_header_font": "text-lg",
+        "column_desktop": "2",
+        "column_mobile": "1",
+        "column_gap": 8,
+        "collection_font": "md:text-sm",
+        "mobile_collection_font": "text-md",
+        "title_arrow": true
+      }
+    }
+  },
+  "order": [
+    "main_list_collections_ceWFM3"
+  ]
 }
